@@ -1,4 +1,3 @@
--
 - 👋 Hi, I’m @ada-hatelace
 - 👀 I’m interested in React, Vue, Python, JavaScript, HTML, CSS, Mobile App Development
 - 🌱 I’m currently learning Rust, Next.js, GraphQL, Golang
